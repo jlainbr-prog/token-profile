@@ -9,7 +9,7 @@
   "website": "https://tether.to/",
   "announcement": "https://tether.io/news/tether-to-wind-down-usdt-support-for-five-legacy-blockchains-as-part-of-strategic-infrastructure-review/",
   "whitepaper": "https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf",
-  "state": "NORMAL",
+  "state": "OFFICAL_DISCONTINUED",
   "published_on": "2014-11-26",
   "discontinued_date": "2025-09-01",
   "initial_price": {
@@ -20,3 +20,4 @@
     "facebook": "https://www.facebook.com/tether.to"
   }
 }
+
