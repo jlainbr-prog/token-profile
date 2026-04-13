@@ -1,0 +1,20 @@
+{
+  "symbol": "USDT",
+  "address": "0xDCa62E01D8764f887d7364Ab0e877e4CA8ACCa11",
+  "overview": {
+    "en": "Tether USDT - Stablecoin backed 1:1 by US Dollar. Each USDT unit is backed by a U.S Dollar held in the reserves of Tether Limited.",
+    "zh": "Tether USDT - 与美元一比一挂钩的稳定币"
+  },
+  "email": "support@tether.to",
+  "website": "https://tether.to/",
+  "whitepaper": "https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2026-04-12",
+  "initial_price": {
+    "USD": "1 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/Tether_to/",
+    "facebook": "https://www.facebook.com/tether.to"
+  }
+}
